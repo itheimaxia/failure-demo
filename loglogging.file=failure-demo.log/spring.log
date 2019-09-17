@@ -1,0 +1,11 @@
+2019-09-15 22:10:21.329  INFO 12196 --- [main] c.i.failuredemo.FailureDemoApplication   : Starting FailureDemoApplication on LAPTOP-MDTJVIH1 with PID 12196 (D:\github\failure-demo\target\classes started by xiadong in D:\github\failure-demo)
+2019-09-15 22:10:21.332  INFO 12196 --- [main] c.i.failuredemo.FailureDemoApplication   : No active profile set, falling back to default profiles: default
+2019-09-15 22:10:24.056  INFO 12196 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-09-15 22:10:24.098  INFO 12196 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-15 22:10:24.098  INFO 12196 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-09-15 22:10:24.268  INFO 12196 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-15 22:10:24.268  INFO 12196 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2804 ms
+2019-09-15 22:10:24.574  INFO 12196 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-15 22:10:24.844  INFO 12196 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-09-15 22:10:24.850  INFO 12196 --- [main] c.i.failuredemo.FailureDemoApplication   : Started FailureDemoApplication in 4.24 seconds (JVM running for 4.952)
+2019-09-15 22:11:18.239  INFO 12196 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
